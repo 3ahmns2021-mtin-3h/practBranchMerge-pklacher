@@ -11,6 +11,9 @@ WebGL
 
 ### Visuals: 
 
+<div>
+<img src="./Screenshots/Screenshot.JPG" width="500">
+</div>
 
 ### Necessary setup/execution steps: 
 
